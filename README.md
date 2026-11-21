@@ -4,7 +4,7 @@
 > Built with Google Cloud Vertex AI, Multi-Agent Architecture, and Modern UI Components
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Vertex%20AI-orange.svg)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Gyaanova%20AI-orange.svg)
 ![ADK](https://img.shields.io/badge/Google-ADK-red.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.45+-red.svg)
 ![Multi-Agent](https://img.shields.io/badge/Architecture-Multi--Agent-purple.svg)
